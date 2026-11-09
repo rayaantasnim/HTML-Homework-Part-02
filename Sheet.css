@@ -1,0 +1,37 @@
+.main{
+	display:grid;
+	grid-template-columns:4fr 2fr 6fr;
+	padding:10px;
+	div{
+		border:2px lightcoral solid;
+		background:lightskyblue;
+		color:black;
+		height:35px;
+	}
+}
+
+body{
+	font-size:20px;
+	font-family:vrinda;
+	background:whitesmoke;
+}
+
+textarea{
+	background:lightpink;
+	color:black;
+	font-size:20px;
+	width:500px;
+	height:20px;
+	margin:5px;
+}
+
+p{
+	font-size:15px;
+}
+
+h3{
+	color:black;
+	padding:0px;
+	margin:0px;
+	font-family:Algerian;
+}
